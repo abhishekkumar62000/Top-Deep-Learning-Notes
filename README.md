@@ -1,3 +1,2 @@
 # Top-Deep-Learning-Notes 
-s
-xcf
+d
