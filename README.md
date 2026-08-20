@@ -2,7 +2,7 @@
  
  tr
 gc
-cgfg
+cgfge
 cggc
 cge
 cgcg
