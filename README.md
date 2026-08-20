@@ -1,7 +1,7 @@
 # Top-Deep-Learning-Notes 
  
  tr
-gc
+gcdg
 cgfgergf
 cggc
 cge
