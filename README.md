@@ -5,4 +5,4 @@ gc
 cg
 cggc
 cg
-cg
+cgcg
