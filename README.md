@@ -3,6 +3,6 @@
  
 gc
 cg
-cg
+cggc
 cg
 cg
