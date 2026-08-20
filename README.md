@@ -2,7 +2,7 @@
  
  
 gc
-cg
+cgfg
 cggc
 cg
 cgcg
