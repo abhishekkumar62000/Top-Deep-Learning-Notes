@@ -4,5 +4,5 @@
 gc
 cgfg
 cggc
-cg
+cge
 cgcg
