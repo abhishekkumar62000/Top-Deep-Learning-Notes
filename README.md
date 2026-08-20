@@ -3,6 +3,6 @@
  tr
 gcdg
 cgfgergf
-cggc
+cggcd
 cge
 cgcg
